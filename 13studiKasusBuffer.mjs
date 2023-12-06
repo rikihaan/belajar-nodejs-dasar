@@ -34,3 +34,10 @@ fs.readFile('data/image.jpg').
 		console.info(error);
 	})
 
+
+
+
+
+
+
+
